@@ -10,7 +10,7 @@ export default function Stack(props) {
                     style={styles.img}
                     source={require('../Page/fuel-high.png')}
                 />
-                <Text style={styles.txtImg}>Compensa usar: {props.result}</Text>
+                <Text style={styles.txtImg}>Compensa usar: {props.result}</Text> 
             </View>
 
             <View style={styles.calc}>

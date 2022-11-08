@@ -97,7 +97,6 @@ const styles = StyleSheet.create({
   img: {
     height: 150,
     width: 150,
-    //marginTop: -50,
   },
   txtImg: {
     fontSize: 25,
